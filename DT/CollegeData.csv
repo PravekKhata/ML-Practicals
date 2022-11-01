@@ -1,0 +1,1001 @@
+﻿type_school,school_accreditation,gender,interest,residence,parent_age,average_grades,parent_was_in_college,in_college
+Academic,A,Male,Less Interested,Urban,56,8409,FALSE,TRUE
+Academic,A,Male,Less Interested,Urban,57,8691,FALSE,TRUE
+Academic,B,Female,Very Interested,Urban,50,8743,FALSE,TRUE
+Vocational,B,Male,Very Interested,Rural,49,8212,TRUE,TRUE
+Academic,A,Female,Very Interested,Urban,57,8679,FALSE,FALSE
+Vocational,B,Female,Less Interested,Rural,48,8679,TRUE,FALSE
+Academic,A,Male,Very Interested,Rural,52,9039,TRUE,TRUE
+Academic,B,Male,Very Interested,Rural,53,8465,TRUE,FALSE
+Academic,B,Female,Uncertain,Rural,52,8850,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,47,8543,TRUE,FALSE
+Vocational,A,Male,Not Interested,Rural,57,8945,TRUE,FALSE
+Vocational,B,Male,Uncertain,Rural,48,8496,TRUE,FALSE
+Vocational,B,Male,Uncertain,Rural,47,8623,TRUE,FALSE
+Academic,B,Male,Very Interested,Rural,53,9192,TRUE,TRUE
+Academic,A,Male,Very Interested,Urban,51,8409,FALSE,FALSE
+Vocational,A,Female,Less Interested,Urban,53,8971,TRUE,TRUE
+Academic,B,Male,Very Interested,Rural,48,8638,TRUE,FALSE
+Vocational,B,Female,Very Interested,Rural,49,8568,TRUE,FALSE
+Vocational,A,Female,Less Interested,Rural,47,8490,FALSE,FALSE
+Vocational,B,Female,Very Interested,Rural,47,8594,TRUE,FALSE
+Vocational,B,Female,Very Interested,Urban,52,8764,TRUE,TRUE
+Academic,B,Female,Quiet Interested,Urban,56,8650,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,51,8318,FALSE,FALSE
+Academic,B,Female,Quiet Interested,Urban,60,8399,FALSE,FALSE
+Academic,B,Male,Very Interested,Urban,54,8830,FALSE,TRUE
+Vocational,A,Male,Not Interested,Urban,51,8342,FALSE,TRUE
+Vocational,B,Male,Very Interested,Rural,55,8539,TRUE,FALSE
+Vocational,A,Male,Uncertain,Urban,53,8226,FALSE,TRUE
+Vocational,B,Male,Not Interested,Rural,51,8736,TRUE,FALSE
+Vocational,B,Female,Uncertain,Rural,50,8586,TRUE,FALSE
+Vocational,A,Male,Very Interested,Rural,49,8632,TRUE,TRUE
+Vocational,B,Male,Less Interested,Urban,54,8239,TRUE,FALSE
+Academic,A,Male,Very Interested,Urban,60,8596,FALSE,FALSE
+Academic,B,Male,Less Interested,Rural,52,8270,TRUE,FALSE
+Vocational,A,Female,Very Interested,Rural,52,8531,TRUE,TRUE
+Academic,A,Female,Very Interested,Urban,53,8896,FALSE,TRUE
+Academic,A,Male,Uncertain,Urban,55,8983,FALSE,TRUE
+Vocational,A,Female,Very Interested,Rural,48,8367,TRUE,FALSE
+Academic,A,Male,Less Interested,Urban,54,8357,FALSE,FALSE
+Vocational,B,Female,Not Interested,Rural,53,8673,TRUE,FALSE
+Academic,A,Female,Not Interested,Urban,50,8050,FALSE,TRUE
+Academic,B,Female,Less Interested,Urban,53,8849,TRUE,FALSE
+Vocational,B,Female,Very Interested,Urban,53,8374,TRUE,TRUE
+Vocational,A,Female,Very Interested,Rural,52,8935,TRUE,TRUE
+Vocational,A,Female,Very Interested,Urban,50,8355,FALSE,TRUE
+Academic,A,Male,Uncertain,Urban,50,7992,TRUE,FALSE
+Academic,A,Female,Uncertain,Rural,51,8481,TRUE,FALSE
+Vocational,A,Male,Very Interested,Urban,55,9049,FALSE,TRUE
+Academic,A,Female,Uncertain,Rural,54,8902,TRUE,TRUE
+Vocational,A,Male,Uncertain,Rural,53,8842,FALSE,FALSE
+Vocational,A,Male,Very Interested,Rural,46,9078,TRUE,TRUE
+Vocational,A,Male,Less Interested,Urban,56,8756,FALSE,TRUE
+Vocational,B,Female,Uncertain,Rural,51,9253,TRUE,TRUE
+Academic,B,Female,Less Interested,Urban,51,8437,FALSE,FALSE
+Vocational,B,Male,Uncertain,Rural,51,8819,TRUE,FALSE
+Vocational,A,Male,Very Interested,Urban,55,9305,FALSE,TRUE
+Vocational,A,Male,Uncertain,Rural,55,9403,TRUE,TRUE
+Vocational,A,Male,Uncertain,Rural,47,8425,TRUE,FALSE
+Academic,A,Female,Quiet Interested,Urban,46,8317,FALSE,FALSE
+Academic,A,Male,Very Interested,Urban,55,9115,TRUE,TRUE
+Academic,A,Female,Not Interested,Rural,49,8248,TRUE,TRUE
+Academic,B,Male,Less Interested,Rural,49,8372,FALSE,FALSE
+Vocational,A,Male,Not Interested,Urban,51,7917,FALSE,TRUE
+Vocational,A,Female,Very Interested,Rural,48,8551,TRUE,FALSE
+Academic,A,Male,Quiet Interested,Urban,55,8249,FALSE,FALSE
+Vocational,A,Male,Less Interested,Urban,54,8600,FALSE,TRUE
+Vocational,B,Male,Uncertain,Rural,52,8673,TRUE,FALSE
+Academic,A,Male,Very Interested,Urban,52,8478,FALSE,FALSE
+Vocational,A,Male,Not Interested,Rural,51,8689,TRUE,TRUE
+Vocational,A,Female,Very Interested,Rural,53,8919,TRUE,TRUE
+Academic,A,Female,Very Interested,Urban,53,8892,FALSE,TRUE
+Vocational,B,Male,Uncertain,Rural,49,8754,TRUE,FALSE
+Academic,B,Female,Very Interested,Rural,47,8324,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,57,8493,FALSE,FALSE
+Vocational,B,Male,Not Interested,Rural,54,9357,TRUE,TRUE
+Vocational,B,Female,Quiet Interested,Urban,55,8402,FALSE,FALSE
+Academic,B,Male,Uncertain,Urban,57,8055,FALSE,TRUE
+Vocational,A,Male,Very Interested,Rural,54,8887,FALSE,TRUE
+Academic,B,Male,Uncertain,Rural,50,8921,TRUE,TRUE
+Academic,A,Male,Very Interested,Urban,52,9117,FALSE,TRUE
+Academic,B,Female,Very Interested,Urban,54,8252,FALSE,FALSE
+Vocational,B,Male,Uncertain,Rural,50,8588,TRUE,FALSE
+Academic,B,Male,Less Interested,Urban,58,8239,FALSE,TRUE
+Vocational,A,Male,Uncertain,Urban,52,8620,FALSE,TRUE
+Academic,A,Female,Quiet Interested,Urban,56,8448,FALSE,FALSE
+Vocational,B,Female,Quiet Interested,Urban,56,8838,FALSE,FALSE
+Vocational,A,Male,Less Interested,Urban,55,8931,TRUE,TRUE
+Vocational,A,Male,Less Interested,Urban,51,8737,TRUE,TRUE
+Vocational,A,Female,Very Interested,Urban,52,8314,FALSE,TRUE
+Vocational,A,Male,Very Interested,Urban,53,8370,FALSE,TRUE
+Academic,A,Female,Less Interested,Urban,55,8756,FALSE,FALSE
+Vocational,B,Male,Quiet Interested,Urban,54,8170,FALSE,FALSE
+Vocational,A,Male,Quiet Interested,Urban,60,9276,FALSE,TRUE
+Academic,B,Male,Less Interested,Urban,52,8508,TRUE,FALSE
+Vocational,B,Male,Very Interested,Rural,41,9170,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,49,8740,TRUE,TRUE
+Vocational,A,Male,Uncertain,Rural,48,8328,FALSE,FALSE
+Vocational,A,Female,Very Interested,Urban,54,8717,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,51,8475,TRUE,TRUE
+Vocational,A,Male,Uncertain,Rural,52,8373,FALSE,TRUE
+Academic,A,Female,Uncertain,Urban,52,8244,FALSE,FALSE
+Academic,A,Male,Very Interested,Urban,55,8405,FALSE,FALSE
+Vocational,A,Male,Uncertain,Rural,52,8581,FALSE,TRUE
+Academic,A,Female,Less Interested,Rural,51,8428,FALSE,FALSE
+Academic,A,Female,Very Interested,Urban,52,9054,FALSE,TRUE
+Vocational,A,Female,Uncertain,Rural,53,8577,TRUE,FALSE
+Vocational,A,Female,Very Interested,Rural,49,8537,TRUE,TRUE
+Academic,B,Male,Very Interested,Rural,54,8818,TRUE,TRUE
+Academic,A,Male,Less Interested,Urban,59,8401,FALSE,FALSE
+Academic,A,Male,Quiet Interested,Urban,57,8350,FALSE,FALSE
+Vocational,A,Male,Uncertain,Rural,51,8662,TRUE,FALSE
+Academic,B,Female,Less Interested,Urban,52,8699,TRUE,FALSE
+Academic,B,Male,Less Interested,Rural,52,9355,TRUE,TRUE
+Vocational,B,Female,Quiet Interested,Urban,52,8498,TRUE,FALSE
+Academic,B,Female,Very Interested,Rural,49,8753,TRUE,TRUE
+Vocational,A,Male,Less Interested,Rural,43,8464,FALSE,FALSE
+Vocational,A,Male,Uncertain,Rural,50,8634,FALSE,FALSE
+Academic,A,Male,Very Interested,Rural,53,8955,FALSE,FALSE
+Vocational,B,Female,Less Interested,Urban,60,8362,FALSE,TRUE
+Vocational,B,Male,Not Interested,Rural,55,8543,TRUE,FALSE
+Vocational,B,Female,Quiet Interested,Urban,49,8191,TRUE,FALSE
+Academic,B,Male,Uncertain,Rural,48,8834,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,52,8817,TRUE,TRUE
+Vocational,B,Female,Not Interested,Rural,46,8372,TRUE,TRUE
+Academic,B,Female,Less Interested,Urban,56,8974,TRUE,TRUE
+Academic,A,Female,Less Interested,Urban,54,8232,FALSE,FALSE
+Academic,B,Male,Not Interested,Rural,46,9299,TRUE,TRUE
+Academic,B,Male,Less Interested,Urban,50,8410,FALSE,FALSE
+Vocational,B,Male,Not Interested,Rural,50,9353,TRUE,TRUE
+Academic,B,Male,Less Interested,Urban,53,8529,TRUE,FALSE
+Vocational,B,Female,Very Interested,Rural,55,8481,FALSE,FALSE
+Academic,A,Female,Uncertain,Rural,46,7902,TRUE,FALSE
+Vocational,B,Male,Uncertain,Rural,53,8818,TRUE,TRUE
+Vocational,B,Male,Quiet Interested,Rural,50,8572,TRUE,FALSE
+Academic,B,Female,Uncertain,Rural,50,9656,TRUE,TRUE
+Vocational,B,Male,Uncertain,Rural,49,8354,TRUE,FALSE
+Academic,B,Female,Very Interested,Urban,53,9208,TRUE,TRUE
+Academic,A,Female,Very Interested,Urban,49,8316,FALSE,FALSE
+Academic,A,Female,Less Interested,Urban,53,8187,FALSE,FALSE
+Academic,A,Male,Quiet Interested,Urban,53,8362,FALSE,FALSE
+Vocational,A,Male,Very Interested,Rural,54,8855,FALSE,TRUE
+Academic,A,Female,Quiet Interested,Urban,58,8352,FALSE,FALSE
+Vocational,A,Male,Less Interested,Rural,48,8245,FALSE,FALSE
+Academic,A,Female,Uncertain,Rural,47,8223,TRUE,TRUE
+Vocational,B,Female,Uncertain,Rural,53,8413,TRUE,FALSE
+Academic,B,Male,Very Interested,Rural,50,8648,TRUE,TRUE
+Vocational,A,Female,Uncertain,Rural,49,8202,TRUE,TRUE
+Academic,B,Female,Less Interested,Urban,56,8371,FALSE,FALSE
+Vocational,B,Female,Uncertain,Rural,42,8939,TRUE,TRUE
+Academic,B,Female,Less Interested,Urban,49,8581,TRUE,FALSE
+Academic,B,Female,Uncertain,Rural,48,9247,TRUE,TRUE
+Vocational,B,Female,Uncertain,Rural,46,8433,TRUE,TRUE
+Academic,B,Female,Very Interested,Urban,58,8692,FALSE,TRUE
+Academic,B,Female,Uncertain,Rural,52,8065,TRUE,TRUE
+Vocational,B,Male,Uncertain,Rural,55,8312,TRUE,FALSE
+Vocational,A,Female,Very Interested,Rural,49,8638,TRUE,TRUE
+Vocational,A,Male,Uncertain,Urban,56,8649,FALSE,FALSE
+Vocational,B,Female,Uncertain,Rural,52,8449,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,55,8384,FALSE,FALSE
+Vocational,B,Female,Quiet Interested,Urban,54,8509,TRUE,FALSE
+Vocational,B,Male,Uncertain,Rural,54,9280,TRUE,TRUE
+Academic,B,Male,Very Interested,Urban,52,8623,FALSE,TRUE
+Academic,A,Male,Less Interested,Urban,54,8709,FALSE,FALSE
+Academic,A,Female,Very Interested,Urban,56,8514,FALSE,FALSE
+Academic,B,Male,Not Interested,Rural,49,8995,TRUE,TRUE
+Academic,B,Male,Uncertain,Urban,53,9116,TRUE,TRUE
+Vocational,B,Female,Uncertain,Rural,54,8615,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,59,8524,FALSE,FALSE
+Vocational,A,Female,Less Interested,Rural,49,8394,TRUE,TRUE
+Academic,B,Female,Less Interested,Urban,50,8498,TRUE,FALSE
+Vocational,A,Male,Uncertain,Urban,55,8823,FALSE,TRUE
+Academic,B,Female,Not Interested,Rural,50,8916,TRUE,TRUE
+Academic,A,Male,Very Interested,Urban,60,8119,FALSE,FALSE
+Vocational,B,Male,Less Interested,Rural,50,8656,TRUE,TRUE
+Academic,A,Male,Less Interested,Urban,53,8096,FALSE,FALSE
+Academic,B,Male,Very Interested,Rural,49,8593,TRUE,FALSE
+Vocational,A,Male,Very Interested,Rural,52,8728,FALSE,TRUE
+Academic,B,Female,Uncertain,Rural,52,9510,TRUE,TRUE
+Academic,A,Female,Less Interested,Urban,51,8724,FALSE,TRUE
+Vocational,A,Male,Uncertain,Rural,52,8531,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,53,8104,FALSE,FALSE
+Academic,A,Male,Very Interested,Urban,51,8884,FALSE,TRUE
+Vocational,B,Male,Uncertain,Rural,55,8730,TRUE,FALSE
+Academic,B,Female,Uncertain,Rural,50,9147,TRUE,TRUE
+Academic,A,Female,Less Interested,Rural,44,8348,FALSE,FALSE
+Vocational,B,Female,Uncertain,Rural,54,9127,TRUE,TRUE
+Vocational,A,Male,Not Interested,Urban,55,7859,FALSE,TRUE
+Academic,A,Female,Less Interested,Urban,53,8267,FALSE,FALSE
+Vocational,B,Male,Very Interested,Urban,53,8653,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,54,8898,TRUE,TRUE
+Academic,B,Female,Less Interested,Rural,54,8497,TRUE,FALSE
+Vocational,B,Female,Uncertain,Rural,47,8488,TRUE,FALSE
+Vocational,A,Male,Uncertain,Rural,52,8515,FALSE,FALSE
+Academic,B,Male,Very Interested,Urban,55,8389,FALSE,FALSE
+Vocational,B,Female,Uncertain,Rural,54,8350,TRUE,FALSE
+Academic,A,Male,Quiet Interested,Urban,55,8573,FALSE,FALSE
+Vocational,A,Male,Very Interested,Rural,47,8235,TRUE,TRUE
+Vocational,B,Female,Not Interested,Rural,53,8556,TRUE,FALSE
+Academic,B,Male,Uncertain,Rural,55,8851,TRUE,TRUE
+Academic,B,Male,Quiet Interested,Urban,53,8490,FALSE,FALSE
+Vocational,A,Male,Uncertain,Urban,56,8596,FALSE,TRUE
+Academic,A,Female,Less Interested,Urban,58,8478,FALSE,FALSE
+Academic,B,Female,Very Interested,Rural,54,8660,TRUE,TRUE
+Academic,A,Male,Quiet Interested,Urban,56,8894,FALSE,FALSE
+Academic,A,Male,Very Interested,Urban,51,8445,FALSE,FALSE
+Academic,A,Male,Uncertain,Urban,54,8352,FALSE,TRUE
+Academic,A,Male,Less Interested,Urban,59,8444,FALSE,FALSE
+Vocational,B,Female,Very Interested,Rural,46,8198,TRUE,FALSE
+Academic,A,Male,Very Interested,Urban,53,8903,FALSE,TRUE
+Vocational,A,Female,Very Interested,Rural,50,8090,FALSE,FALSE
+Vocational,B,Male,Less Interested,Rural,48,8693,TRUE,TRUE
+Vocational,B,Male,Uncertain,Rural,49,8768,TRUE,FALSE
+Vocational,B,Male,Uncertain,Rural,48,8515,TRUE,FALSE
+Vocational,A,Female,Very Interested,Urban,54,8739,FALSE,TRUE
+Vocational,A,Female,Uncertain,Urban,56,8435,FALSE,FALSE
+Academic,A,Female,Very Interested,Urban,52,8539,FALSE,TRUE
+Academic,A,Male,Less Interested,Urban,54,8907,FALSE,TRUE
+Academic,B,Male,Very Interested,Urban,51,8941,TRUE,TRUE
+Vocational,B,Female,Not Interested,Rural,50,8293,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,52,8364,FALSE,TRUE
+Academic,B,Female,Uncertain,Urban,64,8528,FALSE,TRUE
+Academic,A,Female,Very Interested,Urban,52,8766,FALSE,TRUE
+Academic,A,Male,Very Interested,Urban,57,8558,FALSE,FALSE
+Vocational,B,Female,Uncertain,Urban,50,8939,FALSE,TRUE
+Vocational,A,Female,Uncertain,Urban,53,9109,FALSE,TRUE
+Academic,B,Male,Uncertain,Urban,51,9096,TRUE,TRUE
+Academic,B,Female,Uncertain,Urban,53,8384,TRUE,TRUE
+Academic,B,Male,Uncertain,Urban,48,9083,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,53,9276,TRUE,TRUE
+Vocational,A,Male,Uncertain,Rural,51,8874,TRUE,TRUE
+Vocational,B,Female,Uncertain,Urban,54,8854,TRUE,TRUE
+Vocational,B,Male,Not Interested,Urban,53,9269,TRUE,TRUE
+Academic,B,Male,Uncertain,Urban,53,9102,TRUE,TRUE
+Academic,A,Male,Uncertain,Rural,51,8390,TRUE,FALSE
+Academic,B,Female,Uncertain,Urban,52,8739,FALSE,TRUE
+Vocational,B,Male,Uncertain,Urban,58,8463,FALSE,FALSE
+Academic,B,Male,Less Interested,Urban,56,8781,FALSE,FALSE
+Vocational,B,Female,Not Interested,Rural,52,9153,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,52,9335,TRUE,TRUE
+Academic,A,Male,Less Interested,Urban,57,8492,FALSE,TRUE
+Vocational,A,Female,Less Interested,Urban,55,8610,FALSE,TRUE
+Vocational,A,Male,Quiet Interested,Urban,52,8113,FALSE,FALSE
+Vocational,B,Female,Uncertain,Rural,50,8752,TRUE,FALSE
+Academic,A,Female,Less Interested,Rural,51,8261,TRUE,FALSE
+Academic,B,Female,Very Interested,Urban,54,8942,FALSE,TRUE
+Vocational,A,Male,Very Interested,Urban,53,8565,FALSE,TRUE
+Academic,B,Female,Uncertain,Rural,48,8501,TRUE,TRUE
+Academic,B,Male,Uncertain,Urban,52,8872,TRUE,TRUE
+Academic,B,Male,Uncertain,Rural,50,8562,TRUE,FALSE
+Vocational,B,Male,Less Interested,Urban,56,8602,FALSE,TRUE
+Vocational,A,Female,Less Interested,Urban,61,8439,FALSE,TRUE
+Vocational,B,Male,Quiet Interested,Urban,50,8180,TRUE,FALSE
+Academic,B,Male,Uncertain,Rural,50,9610,TRUE,TRUE
+Academic,B,Female,Very Interested,Urban,56,8686,FALSE,TRUE
+Academic,A,Male,Not Interested,Rural,49,8886,TRUE,FALSE
+Academic,B,Female,Less Interested,Urban,46,8308,TRUE,FALSE
+Academic,A,Male,Quiet Interested,Urban,52,8164,FALSE,FALSE
+Vocational,B,Female,Less Interested,Rural,54,8891,TRUE,TRUE
+Vocational,A,Female,Uncertain,Rural,43,8419,TRUE,FALSE
+Academic,B,Male,Very Interested,Urban,54,8655,TRUE,TRUE
+Vocational,A,Male,Very Interested,Urban,58,8544,FALSE,TRUE
+Academic,A,Male,Less Interested,Urban,53,9001,FALSE,TRUE
+Vocational,B,Male,Uncertain,Rural,48,8224,TRUE,FALSE
+Vocational,B,Female,Quiet Interested,Urban,50,8057,TRUE,FALSE
+Academic,B,Male,Less Interested,Urban,53,8433,FALSE,FALSE
+Academic,B,Female,Uncertain,Urban,50,8317,TRUE,FALSE
+Academic,A,Male,Less Interested,Urban,57,8479,FALSE,FALSE
+Academic,B,Female,Not Interested,Rural,49,9268,TRUE,TRUE
+Vocational,A,Male,Very Interested,Urban,54,8489,FALSE,TRUE
+Vocational,A,Male,Uncertain,Rural,49,8767,TRUE,TRUE
+Academic,A,Male,Uncertain,Rural,47,8593,TRUE,FALSE
+Academic,A,Female,Uncertain,Urban,52,8837,TRUE,TRUE
+Academic,B,Female,Uncertain,Rural,48,8578,TRUE,TRUE
+Academic,A,Female,Quiet Interested,Urban,54,8270,FALSE,FALSE
+Academic,B,Male,Uncertain,Rural,52,9389,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,46,8913,TRUE,FALSE
+Academic,B,Female,Uncertain,Rural,50,8953,TRUE,TRUE
+Vocational,B,Female,Less Interested,Urban,53,8594,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,49,9067,TRUE,TRUE
+Academic,A,Female,Less Interested,Urban,56,8660,FALSE,FALSE
+Vocational,A,Female,Uncertain,Rural,52,8904,TRUE,TRUE
+Academic,A,Female,Less Interested,Rural,51,8236,FALSE,FALSE
+Academic,A,Male,Less Interested,Urban,57,8257,FALSE,FALSE
+Academic,B,Male,Less Interested,Urban,50,8602,TRUE,FALSE
+Academic,B,Male,Very Interested,Urban,50,8764,FALSE,TRUE
+Academic,A,Male,Less Interested,Rural,53,8425,FALSE,FALSE
+Academic,B,Male,Less Interested,Urban,55,8826,FALSE,FALSE
+Academic,B,Female,Less Interested,Urban,54,9285,FALSE,TRUE
+Academic,A,Male,Less Interested,Rural,52,8388,FALSE,FALSE
+Academic,B,Male,Very Interested,Rural,52,8878,TRUE,TRUE
+Academic,A,Female,Uncertain,Urban,58,8885,FALSE,FALSE
+Academic,A,Female,Less Interested,Urban,52,8233,FALSE,FALSE
+Academic,B,Male,Quiet Interested,Urban,60,8303,FALSE,FALSE
+Vocational,B,Male,Quiet Interested,Urban,52,8638,FALSE,FALSE
+Academic,B,Male,Very Interested,Rural,49,9040,TRUE,TRUE
+Vocational,B,Male,Uncertain,Urban,55,8384,FALSE,FALSE
+Vocational,A,Female,Uncertain,Rural,50,8928,TRUE,TRUE
+Vocational,B,Male,Quiet Interested,Urban,51,8810,TRUE,FALSE
+Vocational,A,Female,Less Interested,Rural,44,8354,FALSE,FALSE
+Academic,A,Female,Uncertain,Rural,53,8997,FALSE,TRUE
+Academic,A,Male,Very Interested,Rural,51,8523,FALSE,FALSE
+Academic,A,Male,Quiet Interested,Urban,54,8176,FALSE,FALSE
+Academic,A,Female,Less Interested,Urban,46,8472,FALSE,FALSE
+Academic,B,Male,Uncertain,Rural,49,9138,TRUE,TRUE
+Academic,A,Female,Uncertain,Urban,51,8761,FALSE,TRUE
+Vocational,B,Female,Not Interested,Rural,49,8758,TRUE,TRUE
+Academic,B,Male,Uncertain,Rural,48,8766,TRUE,TRUE
+Academic,A,Female,Uncertain,Rural,53,8100,TRUE,FALSE
+Academic,A,Male,Very Interested,Rural,47,8636,TRUE,FALSE
+Vocational,B,Female,Not Interested,Rural,55,8493,TRUE,FALSE
+Academic,B,Female,Very Interested,Rural,48,8407,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,53,8314,FALSE,FALSE
+Vocational,B,Female,Not Interested,Rural,53,8570,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,56,8406,FALSE,FALSE
+Vocational,A,Male,Less Interested,Urban,54,8920,FALSE,TRUE
+Academic,B,Male,Very Interested,Urban,54,9207,FALSE,TRUE
+Vocational,B,Male,Very Interested,Rural,51,8342,TRUE,FALSE
+Academic,A,Male,Less Interested,Urban,55,9047,FALSE,TRUE
+Academic,B,Female,Less Interested,Urban,55,8590,TRUE,TRUE
+Vocational,A,Female,Quiet Interested,Urban,47,8146,FALSE,FALSE
+Vocational,A,Male,Very Interested,Urban,59,8298,FALSE,FALSE
+Academic,A,Male,Quiet Interested,Urban,60,8483,FALSE,FALSE
+Academic,A,Female,Very Interested,Urban,56,8404,FALSE,FALSE
+Academic,B,Male,Less Interested,Rural,47,8232,TRUE,FALSE
+Vocational,A,Female,Uncertain,Rural,50,9079,TRUE,TRUE
+Academic,B,Female,Very Interested,Urban,55,8293,TRUE,FALSE
+Academic,B,Male,Less Interested,Rural,46,8411,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,53,8771,FALSE,FALSE
+Vocational,A,Male,Less Interested,Rural,48,8211,FALSE,FALSE
+Academic,B,Female,Very Interested,Urban,54,8481,TRUE,TRUE
+Vocational,A,Male,Very Interested,Urban,53,8329,FALSE,FALSE
+Vocational,A,Female,Very Interested,Rural,51,8223,FALSE,FALSE
+Academic,B,Female,Less Interested,Urban,52,8459,TRUE,FALSE
+Vocational,B,Male,Quiet Interested,Urban,58,8675,FALSE,FALSE
+Academic,B,Female,Very Interested,Urban,54,8341,TRUE,TRUE
+Academic,A,Male,Uncertain,Rural,54,9003,TRUE,TRUE
+Academic,B,Female,Less Interested,Rural,40,8100,TRUE,FALSE
+Vocational,B,Male,Uncertain,Rural,52,8614,TRUE,FALSE
+Academic,A,Male,Not Interested,Rural,53,8837,TRUE,TRUE
+Academic,B,Female,Uncertain,Rural,50,9096,TRUE,TRUE
+Vocational,A,Female,Uncertain,Urban,52,7911,FALSE,TRUE
+Academic,A,Female,Less Interested,Urban,52,8026,FALSE,FALSE
+Academic,A,Male,Less Interested,Urban,50,8587,FALSE,FALSE
+Vocational,A,Male,Very Interested,Rural,51,8326,FALSE,FALSE
+Vocational,B,Male,Uncertain,Rural,52,8639,TRUE,FALSE
+Academic,B,Male,Less Interested,Urban,46,8484,TRUE,FALSE
+Academic,B,Female,Uncertain,Rural,51,8519,TRUE,TRUE
+Academic,B,Female,Very Interested,Urban,55,9095,FALSE,TRUE
+Academic,A,Male,Less Interested,Urban,51,8433,FALSE,FALSE
+Academic,B,Female,Very Interested,Urban,54,8833,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,51,8876,TRUE,TRUE
+Vocational,A,Female,Not Interested,Urban,52,9120,TRUE,TRUE
+Vocational,B,Female,Not Interested,Rural,52,9051,TRUE,TRUE
+Vocational,B,Female,Very Interested,Rural,43,8262,TRUE,FALSE
+Academic,B,Male,Less Interested,Urban,55,8422,FALSE,FALSE
+Academic,A,Female,Less Interested,Urban,47,8392,TRUE,FALSE
+Academic,B,Female,Very Interested,Rural,52,8513,TRUE,TRUE
+Academic,A,Male,Very Interested,Urban,57,8987,FALSE,TRUE
+Academic,B,Male,Uncertain,Rural,52,8228,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,46,8373,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,50,8178,FALSE,FALSE
+Vocational,B,Male,Less Interested,Rural,48,8514,TRUE,FALSE
+Academic,A,Female,Uncertain,Urban,50,8990,FALSE,TRUE
+Vocational,B,Female,Uncertain,Rural,49,8987,TRUE,FALSE
+Academic,A,Female,Uncertain,Rural,52,8827,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,43,7910,TRUE,FALSE
+Vocational,A,Female,Very Interested,Rural,50,8536,FALSE,TRUE
+Academic,A,Female,Less Interested,Urban,50,8392,FALSE,FALSE
+Academic,A,Female,Less Interested,Rural,46,8231,FALSE,FALSE
+Academic,B,Male,Not Interested,Urban,56,8513,FALSE,TRUE
+Academic,B,Female,Less Interested,Urban,57,8502,FALSE,FALSE
+Academic,A,Male,Less Interested,Urban,57,8467,FALSE,FALSE
+Academic,B,Male,Less Interested,Urban,59,8765,FALSE,TRUE
+Academic,A,Female,Less Interested,Urban,54,8323,FALSE,TRUE
+Academic,A,Male,Very Interested,Urban,51,8681,FALSE,TRUE
+Academic,A,Male,Less Interested,Urban,51,8512,FALSE,FALSE
+Academic,A,Male,Uncertain,Urban,55,8518,FALSE,FALSE
+Vocational,B,Female,Not Interested,Rural,50,8493,TRUE,FALSE
+Vocational,B,Female,Quiet Interested,Urban,53,8250,FALSE,FALSE
+Academic,A,Female,Very Interested,Urban,54,8954,FALSE,TRUE
+Academic,B,Male,Very Interested,Rural,51,9189,TRUE,TRUE
+Academic,A,Female,Less Interested,Urban,53,8325,FALSE,FALSE
+Academic,B,Female,Very Interested,Rural,50,8865,TRUE,FALSE
+Academic,B,Male,Not Interested,Urban,55,8213,FALSE,TRUE
+Academic,B,Male,Less Interested,Urban,53,8448,TRUE,FALSE
+Academic,B,Male,Very Interested,Rural,52,8548,TRUE,TRUE
+Academic,B,Female,Very Interested,Urban,55,8429,FALSE,FALSE
+Academic,A,Female,Not Interested,Urban,59,8716,FALSE,TRUE
+Vocational,A,Female,Less Interested,Rural,49,8693,TRUE,TRUE
+Vocational,B,Male,Not Interested,Rural,55,8926,TRUE,FALSE
+Academic,B,Male,Uncertain,Rural,51,8874,TRUE,TRUE
+Academic,B,Male,Very Interested,Urban,58,8584,FALSE,TRUE
+Vocational,A,Female,Uncertain,Urban,48,8211,FALSE,FALSE
+Academic,B,Female,Less Interested,Urban,50,8263,TRUE,FALSE
+Academic,B,Female,Very Interested,Rural,49,8359,TRUE,FALSE
+Academic,A,Male,Quiet Interested,Urban,58,8075,FALSE,FALSE
+Vocational,B,Female,Very Interested,Rural,51,8411,FALSE,FALSE
+Vocational,A,Female,Uncertain,Rural,50,8752,TRUE,TRUE
+Academic,A,Female,Very Interested,Urban,51,9040,FALSE,TRUE
+Academic,A,Male,Uncertain,Rural,43,8768,TRUE,FALSE
+Vocational,B,Male,Quiet Interested,Urban,53,8474,TRUE,FALSE
+Academic,B,Female,Quiet Interested,Urban,56,8466,FALSE,FALSE
+Academic,A,Male,Uncertain,Rural,50,8742,TRUE,TRUE
+Academic,A,Male,Quiet Interested,Urban,54,8568,FALSE,FALSE
+Vocational,A,Male,Quiet Interested,Rural,47,9307,TRUE,TRUE
+Vocational,A,Male,Very Interested,Urban,54,8433,FALSE,TRUE
+Vocational,B,Female,Less Interested,Urban,53,8584,TRUE,TRUE
+Academic,B,Male,Uncertain,Rural,51,9406,TRUE,TRUE
+Academic,A,Female,Very Interested,Urban,55,8364,FALSE,FALSE
+Academic,B,Male,Quiet Interested,Urban,49,8321,FALSE,FALSE
+Academic,B,Male,Very Interested,Rural,52,8194,TRUE,FALSE
+Vocational,B,Male,Very Interested,Urban,56,8746,TRUE,TRUE
+Academic,A,Female,Less Interested,Urban,52,9163,FALSE,TRUE
+Academic,B,Female,Less Interested,Urban,58,7892,TRUE,FALSE
+Vocational,A,Male,Very Interested,Urban,50,8248,FALSE,FALSE
+Vocational,A,Female,Not Interested,Rural,55,8491,FALSE,FALSE
+Vocational,B,Male,Not Interested,Rural,53,8563,TRUE,FALSE
+Vocational,B,Female,Very Interested,Rural,51,8660,TRUE,TRUE
+Vocational,B,Female,Not Interested,Rural,53,8666,TRUE,FALSE
+Academic,A,Male,Less Interested,Urban,53,8401,FALSE,FALSE
+Vocational,A,Male,Quiet Interested,Urban,50,8701,TRUE,TRUE
+Vocational,A,Female,Uncertain,Rural,48,8457,TRUE,FALSE
+Academic,B,Male,Very Interested,Urban,56,8442,FALSE,FALSE
+Vocational,B,Male,Uncertain,Rural,55,8477,TRUE,FALSE
+Vocational,A,Female,Less Interested,Urban,58,8581,FALSE,TRUE
+Academic,A,Female,Less Interested,Urban,57,8523,FALSE,FALSE
+Vocational,B,Female,Uncertain,Rural,48,8611,TRUE,FALSE
+Academic,A,Male,Less Interested,Urban,56,8478,FALSE,FALSE
+Academic,A,Male,Uncertain,Rural,55,8668,TRUE,FALSE
+Academic,A,Male,Quiet Interested,Urban,54,8400,FALSE,FALSE
+Academic,B,Female,Uncertain,Rural,48,9031,TRUE,TRUE
+Academic,A,Male,Less Interested,Urban,51,8370,FALSE,TRUE
+Academic,B,Female,Less Interested,Rural,44,8258,TRUE,FALSE
+Academic,B,Male,Quiet Interested,Urban,57,8523,FALSE,FALSE
+Academic,B,Male,Quiet Interested,Urban,55,8561,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,47,8341,FALSE,FALSE
+Academic,A,Female,Less Interested,Urban,53,8533,FALSE,TRUE
+Vocational,B,Female,Uncertain,Rural,47,8618,TRUE,FALSE
+Academic,A,Male,Less Interested,Urban,54,8404,FALSE,FALSE
+Academic,A,Male,Very Interested,Rural,52,8073,TRUE,FALSE
+Vocational,A,Male,Uncertain,Rural,53,8539,TRUE,TRUE
+Academic,B,Male,Uncertain,Rural,49,9182,TRUE,TRUE
+Academic,A,Male,Very Interested,Urban,59,8165,FALSE,FALSE
+Academic,A,Female,Very Interested,Urban,57,8356,FALSE,FALSE
+Academic,B,Male,Less Interested,Rural,54,8472,TRUE,FALSE
+Academic,B,Female,Uncertain,Rural,47,8579,TRUE,TRUE
+Academic,B,Male,Not Interested,Rural,50,9301,TRUE,TRUE
+Vocational,B,Female,Uncertain,Rural,47,8952,TRUE,FALSE
+Academic,B,Female,Less Interested,Urban,52,8545,TRUE,FALSE
+Academic,B,Male,Very Interested,Rural,53,8942,FALSE,TRUE
+Vocational,B,Male,Quiet Interested,Rural,51,8819,TRUE,TRUE
+Vocational,A,Male,Very Interested,Rural,51,8835,TRUE,TRUE
+Academic,B,Female,Uncertain,Rural,51,9672,TRUE,TRUE
+Vocational,A,Male,Very Interested,Urban,53,8213,FALSE,FALSE
+Vocational,A,Male,Very Interested,Urban,49,8005,FALSE,FALSE
+Academic,A,Female,Very Interested,Urban,53,8430,FALSE,TRUE
+Academic,B,Male,Very Interested,Rural,52,8672,TRUE,FALSE
+Academic,A,Male,Quiet Interested,Urban,51,8666,FALSE,FALSE
+Vocational,A,Male,Very Interested,Urban,54,8534,FALSE,TRUE
+Academic,A,Female,Less Interested,Urban,52,8367,FALSE,TRUE
+Academic,B,Male,Uncertain,Rural,51,8963,TRUE,TRUE
+Academic,A,Female,Quiet Interested,Urban,58,8660,FALSE,FALSE
+Vocational,A,Female,Less Interested,Urban,59,8408,FALSE,TRUE
+Vocational,A,Male,Very Interested,Rural,49,8671,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,51,8647,FALSE,TRUE
+Vocational,A,Male,Uncertain,Rural,50,8659,TRUE,TRUE
+Vocational,A,Male,Very Interested,Rural,50,8720,TRUE,TRUE
+Academic,A,Male,Very Interested,Urban,52,8379,FALSE,FALSE
+Academic,A,Male,Very Interested,Urban,53,8750,FALSE,TRUE
+Academic,A,Female,Less Interested,Urban,51,8318,FALSE,FALSE
+Academic,A,Female,Very Interested,Urban,53,8523,FALSE,TRUE
+Vocational,A,Female,Less Interested,Rural,46,8727,TRUE,TRUE
+Academic,A,Male,Less Interested,Urban,54,8112,FALSE,TRUE
+Vocational,B,Male,Quiet Interested,Urban,54,8073,TRUE,FALSE
+Vocational,A,Female,Not Interested,Rural,52,8750,TRUE,FALSE
+Academic,B,Female,Quiet Interested,Urban,52,8288,FALSE,FALSE
+Academic,B,Female,Uncertain,Urban,52,8997,TRUE,TRUE
+Vocational,B,Female,Uncertain,Rural,45,8456,TRUE,FALSE
+Academic,B,Female,Less Interested,Urban,52,8550,TRUE,FALSE
+Academic,A,Male,Uncertain,Rural,48,8069,FALSE,FALSE
+Vocational,B,Female,Uncertain,Rural,55,8412,TRUE,FALSE
+Academic,B,Male,Uncertain,Rural,47,8835,TRUE,TRUE
+Academic,B,Female,Very Interested,Urban,48,8186,TRUE,FALSE
+Academic,A,Female,Uncertain,Rural,49,8914,TRUE,TRUE
+Academic,B,Male,Less Interested,Urban,58,8520,TRUE,FALSE
+Academic,B,Male,Quiet Interested,Urban,52,8451,FALSE,FALSE
+Academic,A,Male,Quiet Interested,Urban,53,8430,FALSE,FALSE
+Vocational,B,Male,Quiet Interested,Urban,56,8456,FALSE,FALSE
+Vocational,B,Male,Very Interested,Rural,52,8591,TRUE,FALSE
+Academic,B,Male,Not Interested,Rural,51,8330,TRUE,TRUE
+Academic,B,Female,Not Interested,Rural,48,9581,TRUE,TRUE
+Academic,B,Male,Uncertain,Rural,52,8485,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,50,9184,TRUE,TRUE
+Academic,A,Male,Very Interested,Urban,54,8589,FALSE,FALSE
+Academic,B,Male,Very Interested,Urban,50,8693,FALSE,TRUE
+Academic,B,Female,Very Interested,Rural,53,9092,TRUE,TRUE
+Academic,B,Male,Not Interested,Rural,46,9428,TRUE,TRUE
+Academic,A,Female,Less Interested,Urban,58,8387,FALSE,FALSE
+Vocational,B,Female,Uncertain,Rural,46,8686,TRUE,FALSE
+Vocational,B,Female,Less Interested,Rural,53,8939,TRUE,TRUE
+Vocational,A,Female,Very Interested,Urban,54,8859,FALSE,TRUE
+Academic,A,Male,Very Interested,Urban,54,8631,FALSE,FALSE
+Vocational,B,Female,Less Interested,Urban,54,8355,TRUE,FALSE
+Academic,B,Male,Uncertain,Rural,51,9424,TRUE,TRUE
+Academic,B,Male,Uncertain,Urban,54,8399,TRUE,TRUE
+Vocational,B,Male,Quiet Interested,Urban,56,8583,FALSE,FALSE
+Academic,A,Male,Quiet Interested,Urban,55,8609,FALSE,FALSE
+Academic,A,Male,Uncertain,Rural,48,8846,TRUE,TRUE
+Academic,B,Female,Less Interested,Urban,57,9033,FALSE,FALSE
+Academic,B,Male,Very Interested,Rural,53,9239,FALSE,TRUE
+Vocational,B,Male,Very Interested,Rural,47,8116,TRUE,FALSE
+Academic,A,Male,Very Interested,Rural,48,8379,TRUE,FALSE
+Vocational,A,Female,Uncertain,Urban,51,8485,TRUE,TRUE
+Vocational,A,Female,Uncertain,Urban,58,8797,FALSE,FALSE
+Vocational,B,Male,Uncertain,Rural,55,9370,TRUE,TRUE
+Academic,B,Female,Less Interested,Urban,54,8489,TRUE,FALSE
+Academic,B,Female,Less Interested,Urban,56,8463,TRUE,FALSE
+Academic,A,Female,Very Interested,Rural,48,8415,FALSE,FALSE
+Academic,B,Male,Very Interested,Rural,45,8378,TRUE,FALSE
+Vocational,A,Male,Uncertain,Urban,55,8322,FALSE,TRUE
+Vocational,B,Male,Not Interested,Rural,52,8421,TRUE,FALSE
+Vocational,A,Male,Less Interested,Urban,59,8649,FALSE,TRUE
+Academic,B,Female,Less Interested,Urban,56,8310,FALSE,FALSE
+Academic,A,Female,Very Interested,Urban,52,8683,FALSE,TRUE
+Academic,B,Female,Uncertain,Rural,50,9177,TRUE,TRUE
+Academic,B,Female,Less Interested,Urban,52,8530,TRUE,FALSE
+Vocational,A,Female,Less Interested,Urban,54,8750,TRUE,TRUE
+Vocational,A,Male,Uncertain,Rural,50,8499,FALSE,FALSE
+Vocational,B,Female,Uncertain,Rural,47,8343,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,40,8080,TRUE,FALSE
+Vocational,A,Male,Very Interested,Rural,47,8461,TRUE,FALSE
+Academic,B,Male,Quiet Interested,Urban,55,8510,FALSE,FALSE
+Academic,B,Male,Very Interested,Urban,52,9049,FALSE,TRUE
+Academic,B,Female,Less Interested,Rural,50,9032,TRUE,TRUE
+Academic,B,Male,Less Interested,Urban,58,8353,TRUE,FALSE
+Vocational,A,Male,Very Interested,Urban,54,8541,FALSE,TRUE
+Vocational,B,Female,Very Interested,Rural,50,8298,TRUE,FALSE
+Academic,B,Female,Less Interested,Rural,50,8688,TRUE,TRUE
+Academic,A,Male,Very Interested,Rural,46,8106,TRUE,FALSE
+Academic,B,Female,Very Interested,Rural,51,9243,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,48,8652,TRUE,FALSE
+Academic,A,Female,Uncertain,Rural,51,9304,TRUE,TRUE
+Academic,A,Male,Very Interested,Urban,51,8635,FALSE,TRUE
+Vocational,B,Male,Very Interested,Urban,54,8246,FALSE,TRUE
+Academic,B,Female,Less Interested,Rural,49,8405,TRUE,FALSE
+Academic,B,Female,Very Interested,Urban,52,8511,TRUE,FALSE
+Vocational,B,Female,Uncertain,Rural,49,8345,TRUE,FALSE
+Vocational,B,Female,Not Interested,Rural,52,8873,TRUE,FALSE
+Academic,A,Male,Less Interested,Urban,55,8330,FALSE,FALSE
+Vocational,B,Male,Uncertain,Urban,57,8334,TRUE,FALSE
+Vocational,A,Male,Not Interested,Urban,51,8124,FALSE,TRUE
+Vocational,A,Male,Less Interested,Urban,58,8387,FALSE,TRUE
+Academic,A,Female,Less Interested,Urban,53,8835,FALSE,TRUE
+Academic,B,Male,Very Interested,Urban,56,8529,FALSE,TRUE
+Vocational,B,Female,Uncertain,Rural,53,8431,TRUE,FALSE
+Vocational,B,Male,Uncertain,Rural,48,8925,TRUE,TRUE
+Academic,A,Female,Very Interested,Urban,52,8698,FALSE,TRUE
+Academic,A,Male,Not Interested,Rural,41,7718,TRUE,FALSE
+Vocational,B,Female,Not Interested,Rural,52,8479,TRUE,FALSE
+Academic,B,Male,Very Interested,Rural,50,8501,TRUE,FALSE
+Vocational,B,Female,Not Interested,Rural,45,8725,TRUE,TRUE
+Vocational,A,Male,Very Interested,Urban,53,8453,FALSE,FALSE
+Academic,A,Female,Quiet Interested,Urban,54,8697,FALSE,TRUE
+Vocational,A,Male,Quiet Interested,Rural,46,9150,TRUE,TRUE
+Vocational,B,Male,Uncertain,Urban,53,9082,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,52,8682,TRUE,TRUE
+Academic,A,Female,Very Interested,Urban,54,8568,FALSE,TRUE
+Academic,B,Male,Uncertain,Urban,59,7867,FALSE,TRUE
+Academic,A,Female,Very Interested,Urban,52,9018,FALSE,TRUE
+Academic,B,Male,Very Interested,Urban,53,8922,FALSE,TRUE
+Academic,A,Male,Very Interested,Urban,57,8896,FALSE,TRUE
+Vocational,A,Male,Very Interested,Rural,55,8996,TRUE,TRUE
+Academic,A,Male,Very Interested,Urban,56,8224,FALSE,FALSE
+Academic,B,Female,Not Interested,Rural,50,8428,TRUE,TRUE
+Academic,B,Female,Quiet Interested,Urban,51,8362,TRUE,FALSE
+Academic,A,Female,Quiet Interested,Urban,56,8660,FALSE,TRUE
+Vocational,B,Male,Quiet Interested,Urban,54,8487,FALSE,FALSE
+Academic,B,Male,Uncertain,Rural,50,8924,TRUE,TRUE
+Academic,B,Male,Uncertain,Rural,50,9623,TRUE,TRUE
+Academic,A,Male,Less Interested,Urban,53,9143,FALSE,TRUE
+Vocational,B,Male,Uncertain,Rural,52,8267,TRUE,FALSE
+Academic,B,Male,Uncertain,Rural,52,8600,TRUE,TRUE
+Academic,B,Female,Less Interested,Rural,54,8415,FALSE,FALSE
+Academic,B,Female,Very Interested,Rural,45,8840,TRUE,TRUE
+Academic,B,Female,Uncertain,Rural,53,9434,TRUE,TRUE
+Academic,B,Male,Very Interested,Urban,56,8694,FALSE,FALSE
+Academic,B,Female,Very Interested,Rural,52,8809,FALSE,TRUE
+Vocational,B,Female,Less Interested,Rural,52,8876,TRUE,TRUE
+Academic,B,Female,Uncertain,Rural,52,9200,TRUE,TRUE
+Academic,B,Male,Less Interested,Urban,54,8412,TRUE,TRUE
+Vocational,B,Female,Uncertain,Rural,46,8405,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,55,8119,FALSE,FALSE
+Academic,A,Female,Uncertain,Urban,54,9049,FALSE,TRUE
+Academic,B,Male,Very Interested,Rural,54,8245,TRUE,FALSE
+Vocational,A,Male,Uncertain,Urban,52,9160,FALSE,TRUE
+Vocational,B,Female,Not Interested,Rural,48,9800,TRUE,TRUE
+Academic,A,Female,Less Interested,Urban,55,8942,FALSE,TRUE
+Academic,A,Male,Very Interested,Urban,53,9190,FALSE,TRUE
+Vocational,A,Female,Very Interested,Rural,51,8736,FALSE,TRUE
+Academic,A,Male,Very Interested,Urban,55,8755,FALSE,TRUE
+Vocational,A,Male,Quiet Interested,Urban,55,8709,FALSE,FALSE
+Academic,A,Female,Less Interested,Urban,55,8315,FALSE,TRUE
+Academic,B,Male,Very Interested,Urban,52,8944,FALSE,TRUE
+Vocational,A,Female,Very Interested,Urban,53,8737,FALSE,TRUE
+Vocational,B,Female,Not Interested,Rural,54,8513,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,50,8174,FALSE,FALSE
+Academic,B,Female,Very Interested,Urban,55,9151,FALSE,TRUE
+Academic,B,Male,Uncertain,Rural,52,9268,TRUE,TRUE
+Academic,A,Male,Very Interested,Urban,53,8581,FALSE,FALSE
+Academic,A,Male,Less Interested,Urban,50,8040,FALSE,FALSE
+Academic,B,Male,Quiet Interested,Urban,52,8369,FALSE,FALSE
+Vocational,B,Male,Uncertain,Rural,49,8566,TRUE,FALSE
+Academic,B,Male,Uncertain,Rural,52,9079,TRUE,TRUE
+Vocational,A,Female,Very Interested,Rural,47,8536,FALSE,FALSE
+Academic,A,Male,Quiet Interested,Urban,59,8763,FALSE,TRUE
+Academic,A,Male,Uncertain,Urban,57,8306,FALSE,TRUE
+Academic,B,Male,Very Interested,Rural,50,8468,TRUE,FALSE
+Vocational,B,Female,Not Interested,Rural,52,9493,TRUE,TRUE
+Academic,B,Female,Quiet Interested,Urban,62,8874,TRUE,TRUE
+Vocational,A,Male,Uncertain,Urban,53,8382,FALSE,FALSE
+Vocational,B,Male,Quiet Interested,Rural,52,8990,TRUE,TRUE
+Academic,A,Female,Less Interested,Urban,52,8354,FALSE,TRUE
+Academic,A,Female,Less Interested,Urban,55,8499,FALSE,TRUE
+Vocational,B,Female,Uncertain,Rural,45,8235,TRUE,FALSE
+Academic,A,Male,Not Interested,Urban,56,8296,FALSE,TRUE
+Academic,B,Male,Quiet Interested,Urban,58,8347,FALSE,FALSE
+Academic,B,Female,Very Interested,Urban,50,8133,TRUE,FALSE
+Academic,A,Female,Very Interested,Rural,49,7983,TRUE,FALSE
+Academic,B,Female,Less Interested,Urban,58,8906,TRUE,FALSE
+Vocational,A,Female,Very Interested,Urban,53,8364,FALSE,TRUE
+Academic,B,Male,Uncertain,Rural,52,9029,TRUE,TRUE
+Vocational,A,Male,Uncertain,Rural,50,8467,FALSE,FALSE
+Academic,A,Female,Uncertain,Urban,58,8522,FALSE,FALSE
+Academic,B,Female,Uncertain,Rural,51,9404,TRUE,TRUE
+Academic,B,Female,Less Interested,Urban,54,8079,FALSE,FALSE
+Vocational,A,Female,Very Interested,Urban,56,8839,FALSE,TRUE
+Vocational,B,Female,Less Interested,Rural,52,9130,TRUE,TRUE
+Vocational,A,Male,Very Interested,Urban,50,8359,FALSE,FALSE
+Academic,A,Female,Less Interested,Urban,52,8699,FALSE,TRUE
+Academic,A,Female,Less Interested,Urban,60,8133,FALSE,FALSE
+Vocational,B,Male,Very Interested,Rural,48,8335,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,59,8404,FALSE,FALSE
+Vocational,B,Male,Uncertain,Rural,52,8778,TRUE,FALSE
+Academic,B,Female,Less Interested,Urban,54,8554,FALSE,FALSE
+Academic,A,Male,Not Interested,Rural,53,8490,TRUE,FALSE
+Academic,A,Male,Not Interested,Urban,56,8275,FALSE,TRUE
+Academic,A,Male,Very Interested,Urban,54,8852,FALSE,TRUE
+Academic,A,Male,Not Interested,Rural,51,8512,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,52,8905,FALSE,TRUE
+Academic,A,Male,Uncertain,Urban,54,8212,FALSE,TRUE
+Vocational,B,Male,Not Interested,Rural,55,8562,TRUE,FALSE
+Academic,B,Female,Less Interested,Urban,53,8386,FALSE,FALSE
+Academic,B,Male,Quiet Interested,Urban,60,8715,FALSE,FALSE
+Academic,A,Female,Less Interested,Urban,51,8466,FALSE,TRUE
+Academic,A,Male,Very Interested,Urban,51,8494,FALSE,FALSE
+Vocational,A,Male,Very Interested,Rural,47,8562,FALSE,FALSE
+Academic,A,Female,Very Interested,Urban,54,9129,FALSE,TRUE
+Vocational,A,Female,Uncertain,Rural,53,8605,FALSE,FALSE
+Academic,B,Female,Less Interested,Urban,54,8902,FALSE,TRUE
+Vocational,B,Male,Not Interested,Rural,50,8762,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,60,8830,FALSE,FALSE
+Academic,A,Female,Very Interested,Urban,54,8134,FALSE,FALSE
+Academic,A,Male,Very Interested,Rural,48,8135,TRUE,FALSE
+Vocational,A,Male,Quiet Interested,Urban,61,8843,FALSE,FALSE
+Vocational,B,Female,Very Interested,Rural,51,8396,TRUE,FALSE
+Academic,A,Male,Very Interested,Urban,51,8879,FALSE,TRUE
+Academic,A,Female,Quiet Interested,Urban,44,8171,FALSE,FALSE
+Academic,A,Female,Quiet Interested,Urban,49,8355,FALSE,TRUE
+Academic,B,Male,Quiet Interested,Urban,56,8368,FALSE,FALSE
+Academic,B,Male,Uncertain,Rural,52,8768,TRUE,TRUE
+Academic,A,Female,Very Interested,Urban,52,8617,FALSE,TRUE
+Vocational,A,Male,Uncertain,Rural,49,8487,TRUE,FALSE
+Academic,B,Male,Not Interested,Rural,50,8546,TRUE,TRUE
+Academic,A,Male,Very Interested,Rural,55,8950,FALSE,TRUE
+Vocational,B,Male,Very Interested,Urban,57,8295,TRUE,FALSE
+Academic,B,Female,Less Interested,Urban,49,8507,TRUE,FALSE
+Vocational,B,Female,Uncertain,Rural,56,8493,TRUE,FALSE
+Academic,A,Male,Uncertain,Urban,59,8685,FALSE,TRUE
+Academic,B,Female,Uncertain,Rural,55,9378,TRUE,TRUE
+Academic,B,Male,Less Interested,Urban,54,8685,TRUE,TRUE
+Vocational,B,Female,Not Interested,Urban,52,8034,FALSE,TRUE
+Vocational,B,Male,Very Interested,Urban,55,8406,FALSE,TRUE
+Vocational,B,Male,Not Interested,Rural,45,8302,TRUE,FALSE
+Vocational,A,Female,Less Interested,Urban,53,8541,TRUE,TRUE
+Academic,B,Male,Uncertain,Urban,57,8679,TRUE,TRUE
+Vocational,B,Female,Quiet Interested,Urban,59,8723,FALSE,TRUE
+Academic,B,Male,Very Interested,Rural,52,8557,FALSE,FALSE
+Academic,B,Male,Very Interested,Rural,52,8939,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,52,9165,TRUE,TRUE
+Academic,A,Male,Quiet Interested,Urban,54,8807,FALSE,TRUE
+Academic,A,Male,Uncertain,Rural,51,8633,FALSE,TRUE
+Academic,B,Female,Very Interested,Rural,49,9052,TRUE,TRUE
+Vocational,B,Female,Uncertain,Rural,43,8644,TRUE,FALSE
+Vocational,A,Female,Very Interested,Urban,50,8431,FALSE,FALSE
+Vocational,B,Female,Uncertain,Rural,53,8600,TRUE,FALSE
+Vocational,A,Female,Very Interested,Urban,52,8459,FALSE,TRUE
+Academic,A,Male,Uncertain,Rural,52,8724,FALSE,TRUE
+Academic,B,Female,Uncertain,Rural,53,9266,TRUE,TRUE
+Academic,B,Female,Uncertain,Rural,50,9052,TRUE,TRUE
+Academic,A,Male,Very Interested,Urban,49,8159,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,54,8472,FALSE,TRUE
+Vocational,A,Male,Very Interested,Urban,52,8334,FALSE,TRUE
+Vocational,A,Male,Uncertain,Urban,53,8659,FALSE,FALSE
+Academic,A,Male,Very Interested,Rural,46,8262,TRUE,FALSE
+Academic,A,Male,Less Interested,Rural,51,8406,TRUE,FALSE
+Academic,A,Male,Less Interested,Rural,52,8530,FALSE,FALSE
+Vocational,A,Male,Very Interested,Urban,52,8434,FALSE,FALSE
+Academic,A,Male,Quiet Interested,Urban,56,8317,FALSE,TRUE
+Vocational,B,Female,Not Interested,Rural,49,8844,TRUE,TRUE
+Academic,A,Female,Very Interested,Urban,53,8666,FALSE,TRUE
+Vocational,B,Male,Very Interested,Rural,48,8305,TRUE,FALSE
+Academic,B,Male,Quiet Interested,Urban,52,8721,FALSE,FALSE
+Academic,B,Male,Less Interested,Urban,57,8357,FALSE,FALSE
+Vocational,A,Female,Not Interested,Rural,48,8597,TRUE,FALSE
+Academic,B,Male,Very Interested,Urban,50,9231,FALSE,TRUE
+Academic,B,Male,Less Interested,Urban,53,9372,TRUE,TRUE
+Academic,B,Female,Less Interested,Urban,56,8628,FALSE,FALSE
+Academic,A,Female,Less Interested,Urban,58,8643,FALSE,FALSE
+Vocational,B,Female,Not Interested,Rural,50,8674,TRUE,FALSE
+Academic,A,Male,Quiet Interested,Urban,52,8199,FALSE,FALSE
+Academic,A,Male,Very Interested,Rural,50,8402,TRUE,FALSE
+Vocational,A,Female,Uncertain,Urban,59,8304,FALSE,FALSE
+Academic,A,Male,Very Interested,Urban,54,8547,FALSE,FALSE
+Academic,B,Male,Very Interested,Urban,50,8982,TRUE,TRUE
+Academic,B,Female,Less Interested,Urban,56,7894,FALSE,FALSE
+Vocational,A,Male,Quiet Interested,Urban,57,9225,FALSE,TRUE
+Academic,B,Female,Quiet Interested,Rural,44,8352,TRUE,FALSE
+Academic,B,Female,Less Interested,Urban,47,8267,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,53,9021,FALSE,TRUE
+Academic,A,Male,Less Interested,Rural,49,8359,TRUE,FALSE
+Academic,B,Male,Uncertain,Rural,54,9594,TRUE,TRUE
+Academic,A,Male,Very Interested,Urban,52,8614,FALSE,TRUE
+Academic,A,Male,Very Interested,Rural,54,8664,FALSE,FALSE
+Vocational,A,Female,Very Interested,Rural,49,8682,TRUE,TRUE
+Vocational,B,Male,Uncertain,Rural,46,8453,TRUE,FALSE
+Academic,B,Male,Less Interested,Rural,47,8430,TRUE,FALSE
+Academic,A,Female,Very Interested,Rural,52,9280,TRUE,TRUE
+Vocational,A,Female,Very Interested,Urban,53,8546,FALSE,TRUE
+Academic,B,Female,Very Interested,Urban,52,8750,FALSE,TRUE
+Academic,B,Male,Uncertain,Urban,53,8967,TRUE,TRUE
+Academic,B,Male,Not Interested,Rural,48,8363,TRUE,FALSE
+Academic,B,Female,Uncertain,Rural,49,8700,TRUE,TRUE
+Vocational,B,Male,Uncertain,Rural,45,8524,TRUE,TRUE
+Academic,B,Male,Uncertain,Rural,49,9205,TRUE,TRUE
+Vocational,B,Female,Very Interested,Urban,56,8134,FALSE,FALSE
+Academic,A,Male,Less Interested,Rural,51,8396,FALSE,FALSE
+Academic,A,Male,Less Interested,Urban,55,9028,FALSE,TRUE
+Academic,B,Female,Less Interested,Urban,53,8582,FALSE,FALSE
+Academic,A,Female,Very Interested,Rural,47,8229,FALSE,FALSE
+Vocational,B,Male,Not Interested,Rural,53,8400,TRUE,FALSE
+Academic,B,Female,Uncertain,Rural,50,8966,TRUE,TRUE
+Academic,A,Male,Uncertain,Rural,52,8534,TRUE,TRUE
+Vocational,A,Male,Not Interested,Rural,53,9095,TRUE,TRUE
+Vocational,B,Male,Uncertain,Rural,55,8542,TRUE,FALSE
+Academic,B,Male,Very Interested,Urban,52,9140,TRUE,TRUE
+Vocational,B,Female,Uncertain,Rural,50,9188,TRUE,TRUE
+Academic,B,Male,Less Interested,Urban,49,8247,TRUE,FALSE
+Academic,B,Female,Very Interested,Rural,49,8739,FALSE,TRUE
+Academic,B,Male,Less Interested,Urban,54,8499,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,52,8183,FALSE,FALSE
+Academic,A,Male,Less Interested,Urban,55,8589,FALSE,TRUE
+Academic,B,Female,Uncertain,Rural,54,9043,TRUE,TRUE
+Vocational,B,Male,Very Interested,Rural,51,8931,TRUE,TRUE
+Academic,A,Male,Less Interested,Urban,54,8831,FALSE,TRUE
+Academic,A,Male,Very Interested,Urban,55,8719,FALSE,TRUE
+Vocational,A,Female,Uncertain,Rural,53,8857,TRUE,TRUE
+Academic,B,Female,Less Interested,Urban,59,8700,TRUE,TRUE
+Vocational,A,Female,Uncertain,Urban,58,7500,FALSE,TRUE
+Academic,B,Female,Uncertain,Urban,50,9115,TRUE,TRUE
+Academic,A,Male,Less Interested,Urban,53,8120,FALSE,FALSE
+Academic,A,Male,Very Interested,Urban,53,8884,FALSE,TRUE
+Vocational,B,Female,Quiet Interested,Urban,54,8599,FALSE,FALSE
+Vocational,B,Female,Not Interested,Rural,50,8619,TRUE,FALSE
+Academic,B,Female,Less Interested,Rural,52,8301,TRUE,FALSE
+Vocational,B,Female,Very Interested,Rural,49,8719,TRUE,TRUE
+Academic,B,Female,Very Interested,Urban,49,8747,FALSE,TRUE
+Vocational,A,Male,Uncertain,Urban,53,8674,FALSE,FALSE
+Academic,B,Female,Not Interested,Rural,44,8573,TRUE,TRUE
+Academic,A,Male,Less Interested,Urban,65,8655,FALSE,FALSE
+Vocational,B,Male,Less Interested,Rural,51,8486,TRUE,TRUE
+Vocational,B,Female,Uncertain,Rural,51,8601,TRUE,FALSE
+Academic,B,Male,Very Interested,Rural,54,9523,TRUE,TRUE
+Academic,A,Male,Uncertain,Rural,53,8328,TRUE,FALSE
+Vocational,A,Male,Uncertain,Rural,53,8603,FALSE,FALSE
+Academic,A,Male,Less Interested,Urban,54,8263,FALSE,TRUE
+Vocational,A,Male,Not Interested,Rural,54,9097,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,53,8519,FALSE,FALSE
+Vocational,A,Male,Less Interested,Rural,51,8702,FALSE,TRUE
+Academic,B,Male,Very Interested,Urban,52,8657,TRUE,TRUE
+Vocational,B,Female,Not Interested,Rural,53,8471,TRUE,FALSE
+Academic,B,Female,Uncertain,Urban,52,8444,TRUE,TRUE
+Vocational,A,Female,Uncertain,Urban,55,7883,FALSE,TRUE
+Vocational,A,Female,Uncertain,Rural,54,8647,TRUE,FALSE
+Academic,B,Male,Uncertain,Urban,55,8336,FALSE,TRUE
+Vocational,B,Male,Uncertain,Rural,53,9285,TRUE,TRUE
+Academic,A,Female,Very Interested,Rural,50,8654,TRUE,TRUE
+Vocational,B,Female,Quiet Interested,Urban,48,8421,TRUE,FALSE
+Vocational,B,Female,Very Interested,Urban,56,8056,FALSE,TRUE
+Academic,A,Male,Less Interested,Urban,53,8439,FALSE,TRUE
+Vocational,B,Male,Very Interested,Rural,50,8551,TRUE,FALSE
+Vocational,A,Female,Very Interested,Rural,49,8490,TRUE,FALSE
+Academic,B,Female,Not Interested,Rural,50,8293,TRUE,TRUE
+Vocational,B,Female,Quiet Interested,Urban,53,8531,TRUE,FALSE
+Academic,A,Female,Uncertain,Rural,49,8307,TRUE,FALSE
+Vocational,A,Male,Very Interested,Urban,53,8468,FALSE,FALSE
+Vocational,B,Male,Very Interested,Urban,54,8589,TRUE,TRUE
+Academic,B,Female,Uncertain,Rural,51,9225,TRUE,TRUE
+Vocational,A,Male,Very Interested,Urban,54,8305,FALSE,TRUE
+Academic,B,Female,Not Interested,Urban,54,8105,TRUE,TRUE
+Academic,B,Female,Uncertain,Rural,51,9149,TRUE,TRUE
+Academic,B,Female,Quiet Interested,Urban,47,8099,TRUE,FALSE
+Academic,A,Male,Quiet Interested,Urban,57,8523,FALSE,FALSE
+Academic,B,Male,Very Interested,Rural,47,8629,TRUE,FALSE
+Academic,B,Female,Less Interested,Rural,50,8595,TRUE,FALSE
+Vocational,B,Female,Less Interested,Rural,45,8858,TRUE,TRUE
+Academic,A,Female,Less Interested,Rural,50,8680,FALSE,FALSE
+Vocational,A,Male,Very Interested,Rural,42,8476,FALSE,FALSE
+Vocational,B,Female,Uncertain,Rural,51,8390,TRUE,FALSE
+Academic,A,Male,Uncertain,Urban,49,8364,FALSE,TRUE
+Academic,A,Male,Very Interested,Urban,54,8927,FALSE,TRUE
+Vocational,A,Male,Very Interested,Urban,53,8619,TRUE,TRUE
+Academic,A,Male,Less Interested,Urban,54,8871,FALSE,TRUE
+Academic,A,Female,Very Interested,Urban,56,9100,FALSE,TRUE
+Vocational,B,Male,Less Interested,Rural,52,8460,TRUE,FALSE
+Vocational,A,Male,Less Interested,Urban,60,8597,FALSE,TRUE
+Vocational,B,Male,Very Interested,Rural,52,8770,TRUE,TRUE
+Academic,B,Female,Uncertain,Rural,52,9203,TRUE,TRUE
+Vocational,A,Female,Uncertain,Urban,55,8177,FALSE,TRUE
+Vocational,B,Female,Quiet Interested,Urban,52,8250,TRUE,FALSE
+Vocational,A,Male,Quiet Interested,Urban,59,8244,FALSE,FALSE
+Academic,A,Female,Less Interested,Rural,49,8466,FALSE,FALSE
+Academic,B,Female,Uncertain,Rural,50,9245,TRUE,TRUE
+Academic,A,Male,Less Interested,Urban,55,8802,FALSE,FALSE
+Vocational,A,Male,Very Interested,Urban,56,9345,TRUE,TRUE
+Academic,B,Female,Uncertain,Rural,45,8908,TRUE,TRUE
+Academic,A,Male,Uncertain,Urban,51,8703,FALSE,TRUE
+Vocational,B,Male,Uncertain,Rural,52,8455,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,56,8885,FALSE,TRUE
+Vocational,B,Male,Not Interested,Rural,49,8537,TRUE,FALSE
+Vocational,A,Male,Less Interested,Rural,47,8986,TRUE,TRUE
+Academic,B,Male,Quiet Interested,Urban,54,8412,FALSE,FALSE
+Academic,B,Male,Uncertain,Rural,52,9019,TRUE,TRUE
+Vocational,A,Female,Uncertain,Rural,56,8816,FALSE,TRUE
+Academic,B,Female,Less Interested,Urban,56,8593,FALSE,TRUE
+Academic,B,Female,Not Interested,Urban,57,8513,FALSE,TRUE
+Academic,B,Male,Very Interested,Rural,52,8902,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,52,8561,FALSE,TRUE
+Vocational,A,Male,Uncertain,Urban,55,8348,FALSE,TRUE
+Vocational,B,Male,Very Interested,Urban,55,8193,FALSE,FALSE
+Academic,B,Male,Not Interested,Rural,49,9406,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,50,8364,TRUE,TRUE
+Academic,A,Male,Quiet Interested,Urban,55,8708,FALSE,TRUE
+Vocational,B,Female,Uncertain,Rural,44,8320,TRUE,FALSE
+Vocational,A,Female,Very Interested,Urban,53,8255,FALSE,TRUE
+Academic,A,Male,Quiet Interested,Urban,60,8040,FALSE,FALSE
+Academic,A,Male,Quiet Interested,Urban,54,8237,FALSE,FALSE
+Vocational,A,Male,Quiet Interested,Rural,45,8631,TRUE,TRUE
+Academic,B,Male,Very Interested,Urban,53,8502,TRUE,TRUE
+Academic,B,Female,Very Interested,Rural,50,8813,TRUE,TRUE
+Academic,A,Male,Less Interested,Rural,49,8370,FALSE,FALSE
+Vocational,B,Female,Quiet Interested,Urban,53,8807,FALSE,FALSE
+Academic,B,Male,Very Interested,Urban,53,8677,FALSE,TRUE
+Academic,B,Male,Less Interested,Urban,53,8401,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,58,8160,FALSE,FALSE
+Vocational,A,Female,Uncertain,Rural,50,8226,TRUE,TRUE
+Academic,A,Male,Very Interested,Urban,54,8766,TRUE,TRUE
+Academic,A,Female,Less Interested,Urban,62,8432,FALSE,FALSE
+Vocational,A,Male,Uncertain,Urban,52,8380,FALSE,FALSE
+Academic,B,Female,Very Interested,Rural,49,8997,TRUE,TRUE
+Vocational,B,Male,Uncertain,Rural,54,8442,FALSE,FALSE
+Academic,A,Female,Very Interested,Urban,55,9289,FALSE,TRUE
+Academic,B,Female,Very Interested,Urban,51,9198,TRUE,TRUE
+Academic,B,Female,Quiet Interested,Urban,44,8269,TRUE,FALSE
+Vocational,A,Female,Very Interested,Urban,53,8353,FALSE,TRUE
+Academic,A,Female,Very Interested,Urban,54,8485,FALSE,FALSE
+Vocational,A,Female,Quiet Interested,Rural,51,8911,TRUE,TRUE
+Academic,B,Male,Quiet Interested,Urban,54,8509,FALSE,FALSE
+Vocational,B,Female,Not Interested,Rural,54,8464,TRUE,FALSE
+Vocational,B,Male,Very Interested,Rural,51,8169,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,53,8767,FALSE,TRUE
+Vocational,B,Female,Not Interested,Rural,49,8464,TRUE,FALSE
+Academic,B,Female,Less Interested,Urban,58,8414,FALSE,FALSE
+Vocational,A,Female,Uncertain,Urban,54,9173,TRUE,TRUE
+Academic,B,Female,Very Interested,Urban,49,8251,TRUE,FALSE
+Vocational,B,Female,Uncertain,Urban,60,8306,FALSE,FALSE
+Vocational,A,Male,Uncertain,Rural,56,8664,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,52,8748,FALSE,TRUE
+Vocational,A,Female,Less Interested,Rural,54,8936,FALSE,TRUE
+Academic,A,Male,Less Interested,Urban,54,8368,FALSE,FALSE
+Vocational,B,Female,Not Interested,Rural,45,8355,TRUE,FALSE
+Vocational,A,Female,Very Interested,Rural,45,9224,TRUE,TRUE
+Academic,A,Female,Very Interested,Urban,55,9184,FALSE,TRUE
+Vocational,B,Male,Uncertain,Rural,52,8708,TRUE,TRUE
+Academic,B,Male,Very Interested,Rural,53,8453,TRUE,FALSE
+Vocational,B,Male,Not Interested,Rural,48,8586,TRUE,FALSE
+Vocational,A,Male,Uncertain,Urban,55,8576,FALSE,FALSE
+Academic,B,Male,Very Interested,Urban,53,8949,FALSE,TRUE
+Vocational,B,Male,Very Interested,Rural,49,8704,TRUE,TRUE
+Vocational,A,Male,Uncertain,Rural,51,8656,FALSE,FALSE
+Vocational,B,Female,Uncertain,Urban,49,8406,TRUE,TRUE
+Academic,A,Female,Very Interested,Urban,52,8836,FALSE,TRUE
+Vocational,B,Female,Uncertain,Rural,51,8685,TRUE,FALSE
+Academic,B,Male,Very Interested,Urban,54,8469,FALSE,TRUE
+Academic,A,Female,Uncertain,Urban,58,8359,FALSE,FALSE
+Vocational,A,Female,Very Interested,Urban,53,8029,FALSE,FALSE
+Academic,B,Male,Uncertain,Rural,48,9255,TRUE,TRUE
+Academic,A,Female,Very Interested,Urban,51,8475,FALSE,TRUE
+Vocational,A,Male,Not Interested,Rural,51,8536,FALSE,TRUE
+Vocational,A,Female,Very Interested,Urban,60,7562,FALSE,TRUE
+Academic,B,Male,Uncertain,Rural,51,8450,TRUE,TRUE
+Vocational,A,Male,Very Interested,Urban,53,8274,FALSE,TRUE
+Academic,B,Female,Less Interested,Urban,55,8486,TRUE,FALSE
+Academic,B,Female,Very Interested,Rural,51,8363,TRUE,FALSE
+Vocational,A,Female,Uncertain,Rural,53,8457,FALSE,FALSE
+Vocational,A,Male,Quiet Interested,Urban,61,8197,FALSE,FALSE
+Academic,A,Male,Uncertain,Urban,53,8709,FALSE,TRUE
+Vocational,A,Male,Uncertain,Rural,52,8454,FALSE,FALSE
+Vocational,B,Male,Not Interested,Rural,50,8760,TRUE,FALSE
+Academic,B,Female,Very Interested,Urban,53,8750,FALSE,TRUE
+Vocational,B,Female,Less Interested,Rural,50,8107,TRUE,FALSE
+Vocational,B,Female,Very Interested,Rural,50,8647,TRUE,TRUE
+Academic,A,Male,Uncertain,Rural,55,9405,TRUE,TRUE
+Vocational,A,Male,Very Interested,Urban,55,8370,FALSE,TRUE
+Academic,B,Male,Less Interested,Urban,52,8145,TRUE,FALSE
+Academic,A,Male,Uncertain,Urban,52,9138,TRUE,TRUE
+Academic,B,Male,Not Interested,Rural,51,8763,TRUE,TRUE
+Academic,A,Female,Very Interested,Urban,55,8942,FALSE,TRUE
+Academic,B,Female,Very Interested,Rural,54,8317,TRUE,FALSE
+Academic,B,Female,Quiet Interested,Urban,56,8394,FALSE,FALSE
+Academic,B,Male,Uncertain,Rural,57,8861,TRUE,TRUE
+Academic,B,Male,Less Interested,Rural,48,8141,TRUE,FALSE
+Vocational,B,Male,Quiet Interested,Urban,51,8262,FALSE,FALSE
+Vocational,A,Male,Uncertain,Rural,55,9041,TRUE,TRUE
+Vocational,B,Male,Very Interested,Urban,56,8657,FALSE,TRUE
+Academic,B,Male,Uncertain,Rural,47,9077,TRUE,TRUE
+Academic,A,Male,Less Interested,Urban,52,8206,FALSE,FALSE
+Academic,A,Male,Very Interested,Urban,53,8476,FALSE,FALSE
+Academic,B,Male,Very Interested,Urban,57,8550,TRUE,TRUE
+Academic,B,Male,Quiet Interested,Urban,51,8241,FALSE,FALSE
+Vocational,A,Female,Uncertain,Urban,55,8534,FALSE,TRUE
+Vocational,A,Male,Less Interested,Urban,56,8459,FALSE,TRUE
+Academic,A,Male,Less Interested,Urban,55,8426,FALSE,FALSE
+Academic,B,Female,Very Interested,Urban,56,8382,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,51,8118,FALSE,FALSE
+Academic,B,Male,Uncertain,Rural,52,9700,TRUE,TRUE
+Vocational,B,Female,Very Interested,Rural,50,8108,TRUE,TRUE
+Vocational,A,Female,Uncertain,Urban,54,8018,FALSE,TRUE
+Academic,A,Male,Less Interested,Rural,54,8513,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,54,8165,FALSE,FALSE
+Academic,B,Male,Quiet Interested,Urban,54,8470,FALSE,FALSE
+Academic,B,Male,Uncertain,Urban,60,8661,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,52,8656,FALSE,FALSE
+Academic,B,Male,Very Interested,Urban,52,8403,TRUE,FALSE
+Vocational,A,Male,Very Interested,Rural,52,8449,FALSE,TRUE
+Vocational,B,Female,Uncertain,Rural,50,8289,TRUE,FALSE
+Academic,B,Female,Less Interested,Urban,52,8227,FALSE,FALSE
+Academic,A,Female,Less Interested,Urban,55,8712,FALSE,TRUE
+Vocational,B,Male,Uncertain,Rural,55,9387,TRUE,TRUE
+Vocational,A,Male,Not Interested,Rural,49,8415,TRUE,FALSE
+Academic,A,Male,Less Interested,Urban,55,8291,FALSE,FALSE
+Academic,A,Female,Uncertain,Urban,52,8884,TRUE,TRUE
+Vocational,B,Male,Very Interested,Rural,51,8042,TRUE,FALSE
+Academic,B,Female,Very Interested,Rural,45,8173,TRUE,FALSE
+Vocational,A,Male,Quiet Interested,Urban,56,8668,FALSE,TRUE
+Academic,A,Female,Very Interested,Urban,57,8787,FALSE,FALSE
+Vocational,A,Male,Very Interested,Rural,50,8335,FALSE,FALSE
+Academic,B,Female,Uncertain,Rural,50,8982,TRUE,TRUE
+Vocational,A,Female,Uncertain,Urban,52,7911,FALSE,TRUE
+Vocational,B,Female,Not Interested,Rural,51,9062,TRUE,TRUE
+Academic,B,Male,Uncertain,Urban,53,8752,TRUE,TRUE
+Academic,B,Male,Very Interested,Rural,55,8825,TRUE,TRUE
+Vocational,A,Female,Very Interested,Urban,57,8355,FALSE,TRUE
+Academic,B,Male,Uncertain,Urban,51,9173,FALSE,TRUE
+Academic,B,Male,Less Interested,Urban,53,9028,FALSE,TRUE
+Academic,B,Male,Very Interested,Urban,53,8910,TRUE,TRUE
+Vocational,B,Male,Uncertain,Rural,47,8210,TRUE,FALSE
+Academic,B,Male,Very Interested,Urban,56,8233,TRUE,FALSE
+Academic,A,Female,Very Interested,Urban,51,8598,FALSE,TRUE
+Academic,A,Female,Less Interested,Urban,57,8685,FALSE,TRUE
+Academic,A,Female,Less Interested,Rural,52,8450,TRUE,FALSE
+Academic,B,Male,Not Interested,Urban,52,8106,TRUE,TRUE
+Academic,A,Male,Very Interested,Urban,51,8552,FALSE,FALSE
+Vocational,A,Female,Very Interested,Rural,49,8530,TRUE,TRUE
+Vocational,B,Male,Uncertain,Rural,48,8514,TRUE,FALSE
+Academic,A,Male,Quiet Interested,Urban,57,8719,FALSE,FALSE
+Vocational,A,Female,Less Interested,Rural,53,8766,TRUE,TRUE
+Academic,A,Female,Less Interested,Urban,61,8063,FALSE,FALSE
+Vocational,B,Male,Not Interested,Rural,47,8820,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,54,8638,FALSE,TRUE
+Vocational,B,Male,Very Interested,Rural,49,8458,TRUE,FALSE
+Academic,A,Female,Less Interested,Urban,54,8959,FALSE,TRUE
+Academic,B,Female,Very Interested,Rural,51,8687,TRUE,TRUE
+Academic,B,Female,Less Interested,Urban,53,8527,TRUE,FALSE
+Academic,B,Male,Very Interested,Rural,53,8454,TRUE,FALSE
+Academic,B,Female,Less Interested,Urban,52,8516,FALSE,FALSE
+Vocational,A,Female,Very Interested,Rural,49,8599,TRUE,TRUE
+Academic,B,Female,Less Interested,Rural,51,8972,TRUE,TRUE
+Vocational,A,Male,Less Interested,Urban,49,7956,FALSE,TRUE
+Academic,B,Male,Uncertain,Rural,53,8718,TRUE,TRUE
+Academic,B,Male,Quiet Interested,Urban,50,8613,TRUE,FALSE
